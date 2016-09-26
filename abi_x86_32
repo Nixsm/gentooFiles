@@ -1,0 +1,9 @@
+## Please note that this library list may be incomplete due to USE flag differences
+dev-libs/jansson        abi_x86_32
+media-libs/libsdl2      abi_x86_32
+media-libs/sdl2-mixer   abi_x86_32
+media-libs/sdl2-ttf     abi_x86_32
+media-libs/speex        abi_x86_32
+net-misc/curl           abi_x86_32
+gnome-extra/zenity	abi_x86_32
+media-libs/libpng	abi_x86_32
